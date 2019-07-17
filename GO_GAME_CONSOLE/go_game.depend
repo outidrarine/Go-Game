@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1548649740 source:c:\users\sony\desktop\gg_wp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"function.h"
+	<conio.h>
+	<windows.h>
+
+1548649066 c:\users\sony\desktop\gg_wp\function.h
+
+1548649701 source:c:\users\sony\desktop\gg_wp\regles_du_jeu_fonctions.c
+	"function.h"
+	<time.h>
+
+1548649291 source:c:\users\sony\desktop\gg_wp\graphics.c
+	"function.h"
+	<windows.h>
+
+1548649374 source:c:\users\sony\desktop\gg_wp\joueur_vs_machine.c
+	"function.h"
+	<time.h>
+
+1548649419 source:c:\users\sony\desktop\gg_wp\joueur_joueur.c
+	"function.h"
+
