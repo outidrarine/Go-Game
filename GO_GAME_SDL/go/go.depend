@@ -442,3 +442,28 @@
 	<SDL_image.h>
 	"data.h"
 
+1548716204 source:c:\users\grafimage\desktop\2018_projetc_gi_outidrarine_mohamed\2018_projetc_gi_outidrarine_mohamed\go_game_sdl\go\graphics.c
+	"data.h"
+	<SDL.h>
+
+1548651890 c:\users\grafimage\desktop\2018_projetc_gi_outidrarine_mohamed\2018_projetc_gi_outidrarine_mohamed\go_game_sdl\go\data.h
+
+1548715736 source:c:\users\grafimage\desktop\2018_projetc_gi_outidrarine_mohamed\2018_projetc_gi_outidrarine_mohamed\go_game_sdl\go\joueur_joueur.c
+
+1548715385 source:c:\users\grafimage\desktop\2018_projetc_gi_outidrarine_mohamed\2018_projetc_gi_outidrarine_mohamed\go_game_sdl\go\joueur_vs_machine.c
+
+1548791957 source:c:\users\grafimage\desktop\2018_projetc_gi_outidrarine_mohamed\2018_projetc_gi_outidrarine_mohamed\go_game_sdl\go\main.c
+	<SDL.h>
+	<stdio.h>
+	<SDL_image.h>
+	"data.h"
+
+1548715854 source:c:\users\grafimage\desktop\2018_projetc_gi_outidrarine_mohamed\2018_projetc_gi_outidrarine_mohamed\go_game_sdl\go\regles_du_jeu_fonctions.c
+	"data.h"
+	<time.h>
+	<SDL.h>
+	<stdio.h>
+	<stdlib.h>
+	<SDL_image.h>
+	"data.h"
+
