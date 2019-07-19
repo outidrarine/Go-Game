@@ -38,11 +38,11 @@ This game's board size is 9x9 and contains all the game rules and functionalitie
 
 ![Board Pictures](./presentation_pictures/console_board.png)
 
-# Contribution
+# Contribution :
 
 Please feel free to fork the repository and make pull requests.
 
-# Closing
+# Closing :
 
 >While the Baroque rules of chess could only have been created by humans, the rules of go are so elegant, organic, and rigorously logical that if intelligent life forms exist elsewhere in the universe, they almost certainly play go. 
 
