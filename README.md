@@ -1,6 +1,6 @@
-# Go Game with C language :
+# Go Game with C language : <img alt="" src="https://img.shields.io/github/languages/code-size/outidrarine/Go-Game.svg">
 
-<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/outidrarine/Go-Game.svg">
+
 
 A graphic and console implementation of the famous GO GAME for educational purposes with C language.
 
